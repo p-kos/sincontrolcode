@@ -1,0 +1,24 @@
+{
+  "name": "sincontrolcode",
+  "version": "1.0.0",
+  "description": "SINCoontrolCode it is a library to generate Control Code for SIN (Servicio de Impuestos Nacionales de Bolivia)",
+  "main": "SINControlCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p-kos/sincontrolcode.git"
+  },
+  "keywords": [
+    "sin",
+    "facturas",
+    "bolivia"
+  ],
+  "author": "Marco Zarate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-kos/sincontrolcode/issues"
+  },
+  "homepage": "https://github.com/p-kos/sincontrolcode#readme"
+}
