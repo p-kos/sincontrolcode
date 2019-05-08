@@ -17,4 +17,8 @@ steps:
 
 - script: |
     npm install
+- task: Npm@1
+  inputs:
+    command: 'publish'
+    workingDir: './'
   displayName: 'npm install and build'
